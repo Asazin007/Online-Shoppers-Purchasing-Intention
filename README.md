@@ -29,7 +29,7 @@ In this project, we have developed a machine learning model to predict whether a
 
 ## Data
 
-The dataset used for this project is available in the `C:\Users\91630\Desktop\Devs\ML\Online-Shoppers-Purchasing-Intention-master\online_shoppers_intention.csv` directory.**Attribute Information:**
+The dataset used for this project is available in the `https://github.com/Asazin007/Online-Shoppers-Purchasing-Intention/blob/main/online_shoppers_intention.csv` directory.**Attribute Information:**
 
 * The dataset consists of 10 numerical and 8 categorical attributes. 
 * The 'Revenue' attribute can be used as the class label. 
